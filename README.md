@@ -1,6 +1,6 @@
 # Dekstop Clock
 
-### Date of creation - 11.2023
+Date of creation - 11.2023
 
 ____
 
