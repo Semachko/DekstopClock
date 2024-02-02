@@ -43,3 +43,10 @@ ____
 ### *Similar to a regular alarm clock, you can set an alarm at a specific time. You can set an alarm for a specific date, or a specific day of the week, and it will go off every week.*
 ### *All created alarms are stored in a file in the project folder.*
 
+___
+# **Details:**
+- Almost everywhere time is calculated as the difference between two System.DateTime
+- The drawing of the clock (its shape, numbers and hands) is carried out through the cosine functions due to time.
+
+
+
