@@ -47,6 +47,6 @@ ___
 # **Details:**
 - Almost everywhere time is calculated as the difference between two System.DateTime
 - The drawing of the clock (its shape, numbers and hands) is carried out through the cosine functions due to time.
-
+- To count different types of time (clock, stopwatch or timer), there are creating separate threads.
 
 
