@@ -1,5 +1,5 @@
 # Dekstop Clock
-____
+
 ### Date of creation - 11.2023
 ____
 ### Dekstop Clock - a desktop application similar to the default Clock on phones. 
