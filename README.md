@@ -45,8 +45,8 @@ ____
 
 ___
 # **Details:**
-- Station data was loaded into the database as xlsx format.
-- PostgresKL DBMS was used.
-- The reports were created using PowerBI and made available online. The application opens them using a link.
+- Almost everywhere time is calculated as the difference between two System.DateTime
+- The drawing of the clock (its shape, numbers and hands) is carried out through the cosine functions due to time.
+- To count different types of time (clock, stopwatch or timer), there are creating separate threads.
 
 
